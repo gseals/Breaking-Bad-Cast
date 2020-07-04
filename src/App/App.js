@@ -6,26 +6,23 @@ import Search from '../components/ui/Search';
 import './App.css';
 
 const App = () => {
-  //this begins as an empty array until we make a request using useEffect
-  const [items, setItems] = useState([])
-  const [isLoading, setIsLoading] = useState(true)
-  const [query, setQuery] = useState('')
+  // this begins as an empty array until we make a request using useEffect
+  const [items, setItems] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [query, setQuery] = useState('');
 
-
-  //using async await as opposed to .then
+  // using async await as opposed to .then
   useEffect(() => {
     const fetchItems = async () => {
       const result = await axios(
-        `https://www.breakingbadapi.com/api/characters?name=${query}`
-        )
+        `https://www.breakingbadapi.com/api/characters?name=${query}`,
+      );
 
-      console.log(result.data)
-
-      setItems(result.data)
-      setIsLoading(false)
-    }
-    fetchItems()
-  }, [query])
+      setItems(result.data);
+      setIsLoading(false);
+    };
+    fetchItems();
+  }, [query]);
 
   return (
     <div className="container">
@@ -34,6 +31,6 @@ const App = () => {
       <CharacterGrid isLoading={isLoading} items={items} />
     </div>
   );
-}
+};
 
 export default App;
