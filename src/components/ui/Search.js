@@ -1,13 +1,12 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 
 const Search = ({ getQuery }) => {
-
-  const [text, setText] = useState('')
+  const [text, setText] = useState('');
 
   const onChange = (q) => {
-    setText(q)
-    getQuery(q)
-  }
+    setText(q);
+    getQuery(q);
+  };
 
   return (
     <section className='search'>
@@ -22,7 +21,7 @@ const Search = ({ getQuery }) => {
           />
       </form>
     </section>
-  )
-}
+  );
+};
 
-export default Search
+export default Search;
