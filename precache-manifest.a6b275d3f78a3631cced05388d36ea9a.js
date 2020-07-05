@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2526136b64a938ffabe2cb426f2fccf9",
+    "revision": "059d558884faecf27624221a268af18e",
     "url": "/Breaking-Bad-Cast/index.html"
   },
   {
-    "revision": "e67a998e2040df02267c",
+    "revision": "eeac2dc30f9a9aac7d45",
     "url": "/Breaking-Bad-Cast/static/css/main.b78acc23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Breaking-Bad-Cast/static/js/2.813b259a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e67a998e2040df02267c",
-    "url": "/Breaking-Bad-Cast/static/js/main.e04c592e.chunk.js"
+    "revision": "eeac2dc30f9a9aac7d45",
+    "url": "/Breaking-Bad-Cast/static/js/main.4e1bd5a5.chunk.js"
   },
   {
     "revision": "a3b6a786245ad3955008",

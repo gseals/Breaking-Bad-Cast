@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Breaking-Bad-Cast/static/css/main.b78acc23.chunk.css",
-    "main.js": "/Breaking-Bad-Cast/static/js/main.e04c592e.chunk.js",
-    "main.js.map": "/Breaking-Bad-Cast/static/js/main.e04c592e.chunk.js.map",
+    "main.js": "/Breaking-Bad-Cast/static/js/main.4e1bd5a5.chunk.js",
+    "main.js.map": "/Breaking-Bad-Cast/static/js/main.4e1bd5a5.chunk.js.map",
     "runtime-main.js": "/Breaking-Bad-Cast/static/js/runtime-main.8015c9c4.js",
     "runtime-main.js.map": "/Breaking-Bad-Cast/static/js/runtime-main.8015c9c4.js.map",
     "static/js/2.813b259a.chunk.js": "/Breaking-Bad-Cast/static/js/2.813b259a.chunk.js",
     "static/js/2.813b259a.chunk.js.map": "/Breaking-Bad-Cast/static/js/2.813b259a.chunk.js.map",
     "index.html": "/Breaking-Bad-Cast/index.html",
-    "precache-manifest.03a810ad075d9b7c0a069c6b6024ab3c.js": "/Breaking-Bad-Cast/precache-manifest.03a810ad075d9b7c0a069c6b6024ab3c.js",
+    "precache-manifest.a6b275d3f78a3631cced05388d36ea9a.js": "/Breaking-Bad-Cast/precache-manifest.a6b275d3f78a3631cced05388d36ea9a.js",
     "service-worker.js": "/Breaking-Bad-Cast/service-worker.js",
     "static/css/main.b78acc23.chunk.css.map": "/Breaking-Bad-Cast/static/css/main.b78acc23.chunk.css.map",
     "static/js/2.813b259a.chunk.js.LICENSE.txt": "/Breaking-Bad-Cast/static/js/2.813b259a.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.8015c9c4.js",
     "static/js/2.813b259a.chunk.js",
     "static/css/main.b78acc23.chunk.css",
-    "static/js/main.e04c592e.chunk.js"
+    "static/js/main.4e1bd5a5.chunk.js"
   ]
 }
