@@ -1,4 +1,4 @@
-<p style="text-align: center;">*** SPOILER ALERT ***</p>
+<p style="text-align: center">*** SPOILER ALERT ***</p>
 
 The info in this project reflects character states as they end the show "Breaking Bad." If you have not seen the show and want to be surprised, stop where you are, go watch all 5 seasons, then come back and check out this project. Or, just don't mouse hover over any of the character cards.
 
