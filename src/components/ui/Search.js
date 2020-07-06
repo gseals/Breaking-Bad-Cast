@@ -20,6 +20,7 @@ const Search = ({ getQuery }) => {
           autoFocus
           />
       </form>
+      <h3 className="spoiler">Spoilers Ahead</h3>
     </section>
   );
 };
