@@ -6,9 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Breaking Bad Cast version 1.0
 
+## Description
+
+* This application pulls from the [Breaking Bad API](https://breakingbadapi.com/documentation) and displays 63 character images from the TV show "Breaking Bad". Hovering over any of the the images reveals a character's actor's name, nickname, date of birth, and status (alive or dead). Additionally, the search box at the top of the screen allows users to filter the results by character name.
+
 ## Demo Link
 
-* [Check out the project](https://gseals.github.io/Breaking-Bad-Cast/)
+* [Check out the Project](https://gseals.github.io/Breaking-Bad-Cast/)
 
 ## Technologies Used
 
@@ -20,10 +24,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [ReactDOM 16.13.1](https://www.npmjs.com/package/react-dom)
 * [ReactJS 16.13.1](https://reactjs.org/docs/create-a-new-react-app.html)
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-
-## Description
-
-* This application pulls from the [Breaking Bad API](https://breakingbadapi.com/documentation) and displays 63 character images from the TV show "Breaking Bad". Hovering over any of the the images reveals a character's actor's name, nickname, date of birth, and status (alive or dead). Additionally, the search box at the top of the screen allows users to filter the results by character name.
 
 ## Screenshots
 
