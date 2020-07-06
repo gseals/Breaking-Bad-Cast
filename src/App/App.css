@@ -131,3 +131,8 @@ input[type='text'] {
     grid-template-columns: 1fr;
   }
 }
+
+.spoiler {
+  text-align: center;
+  margin-top: 5px;
+}

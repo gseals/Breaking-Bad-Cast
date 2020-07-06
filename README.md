@@ -27,8 +27,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
+### Loading
+![Loading](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+
 ### Landing Page
 ![Landing Page](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+
+### Search
+![Search](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+
+### Character Card Flip
+![Character Card Flip](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+
+### Responsive
+![Responsive](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
 
 ## How to Run
 
