@@ -28,19 +28,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ### Loading
-![Loading](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+![Loading](https://raw.githubusercontent.com/gseals/Breaking-Bad-Cast/master/screenshots/Loading.png)
 
 ### Landing Page
-![Landing Page](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+![Landing Page](https://raw.githubusercontent.com/gseals/Breaking-Bad-Cast/master/screenshots/Landing%20Page.png)
 
 ### Search
-![Search](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+![Search](https://raw.githubusercontent.com/gseals/Breaking-Bad-Cast/master/screenshots/Search.png)
 
 ### Character Card Flip
-![Character Card Flip](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+![Character Card Flip](https://raw.githubusercontent.com/gseals/Breaking-Bad-Cast/master/screenshots/Character%20Card%20Flip.png)
 
 ### Responsive
-![Responsive](https://storage.needpix.com/rsynced_images/coming-soon-2579123_1280.jpg)
+![Responsive](https://raw.githubusercontent.com/gseals/Breaking-Bad-Cast/master/screenshots/Responsive.png)
 
 ## How to Run
 
