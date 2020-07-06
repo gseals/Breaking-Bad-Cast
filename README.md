@@ -23,7 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-* This application pulls from the [Breaking Bad API](https://breakingbadapi.com/documentation) and displays 63 character images from the AMC hit show Breaking Bad. Hovering over any of the the images reveals a character's actor's name, nickname, date of birth, and status (alive or dead). Additionally, the search box at the top of the screen allows users to filter the results by character name.
+* This application pulls from the [Breaking Bad API](https://breakingbadapi.com/documentation) and displays 63 character images from the TV show "Breaking Bad". Hovering over any of the the images reveals a character's actor's name, nickname, date of birth, and status (alive or dead). Additionally, the search box at the top of the screen allows users to filter the results by character name.
 
 ## Screenshots
 
